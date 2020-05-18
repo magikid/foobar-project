@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/magikid/foobar-project#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
   },
   "devDependencies": {
     "eslint": "^7.0.0",
